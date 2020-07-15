@@ -1,2 +1,2 @@
 # Assembly Code
-Exercícios feito no curso de Linguagem de Montagem
+Exercícios propostos no curso de Linguagem de Montagem
